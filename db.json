@@ -4,5 +4,17 @@
   {"value": "Rx", "name": "Rx"},
   {"value": "Order", "name": "Order"},
   {"value": "Other", "name": "Other"}
-]
+],
+ "reasonOptions":[
+  {"value": "", "name": "-SELECT-"},
+  {"value": "Insurance Diversion", "name": "Insurance Diversion"},
+  {"value": "Clinical Review Diversions", "name": "Clinical Review Diversions"},
+  {"value": "Other", "name": "Counseling Diversion"}
+],
+  "ordersOptions":[
+  {"value": "", "name": "-SELECT-"},
+  {"value": 12345, "name": 12345},
+  {"value": 34567, "name": 34567},
+  {"value": 56789, "name": 56789}
+] 
 }
