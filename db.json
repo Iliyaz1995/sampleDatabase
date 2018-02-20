@@ -1,14 +1,14 @@
 {
-"ordersOptions":[
-{value: '', name: '-SELECT-'},
-{value: 'Order options', name: 'order option'},
-{value: 12345, name: 12345},
-{value: 56789, name: 56789}
+'ordersOptions':[
+{'value': '', 'name': '-SELECT-'},
+{'value': 'Order options', name: 'order option'},
+{'value': 12345, 'name': 12345},
+{'value': 56789, 'name': 56789}
 ],
-"rxOptions":[
-{value: '', name: '-SELECT-'},
-{value: 'RX options', name: 'Rx options'},
-{value: 98765, name: 98765},
-{value: 54321, name: 54321}
+'rxOptions':[
+{'value': '', 'name': '-SELECT-'},
+{'value': 'RX options', 'name': 'Rx options'},
+{'value': 98765, 'name': 98765},
+{'value': 54321, 'name': 54321}
 ];
 }
