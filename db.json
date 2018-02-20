@@ -1,7 +1,7 @@
 {
 "ordersOptions":[
 {"value": "", "name": "-SELECT-"},
-{"value": "Order options", name: "order option"},
+{"value": "Order options", "name": "order option"},
 {"value": 12345, "name": 12345},
 {"value": 56789, "name": 56789}
   ],
