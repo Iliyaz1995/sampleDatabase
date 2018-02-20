@@ -1,20 +1,14 @@
 {
-"sourceTaskOptions":[
-  {"value": "", "name": "-SELECT-"},
-  {"value": "Rx", "name": "Rx"},
-  {"value": "Order", "name": "Order"},
-  {"value": "Other", "name": "Other"}
+"ordersOptions":[
+{value: '', name: '-SELECT-'},
+{value: 'Order options', name: 'order option'},
+{value: 12345, name: 12345},
+{value: 56789, name: 56789}
 ],
- "reasonOptions":[
-  {"value": "", "name": "-SELECT-"},
-  {"value": "Insurance Diversion", "name": "Insurance Diversion"},
-  {"value": "Clinical Review Diversions", "name": "Clinical Review Diversions"},
-  {"value": "Other", "name": "Counseling Diversion"}
-],
-  "ordersOptions":[
-  {"value": "", "name": "-SELECT-"},
-  {"value": 12345, "name": 12345},
-  {"value": 34567, "name": 34567},
-  {"value": 56789, "name": 56789}
-] 
+"rxOptions":[
+{value: '', name: '-SELECT-'},
+{value: 'RX options', name: 'Rx options'},
+{value: 98765, name: 98765},
+{value: 54321, name: 54321}
+];
 }
