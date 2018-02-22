@@ -5,7 +5,7 @@
   {"value": "Order", "name": "Order"},
   {"value": "Other", "name": "Other"}
   ],
-  "taskReason"[
+  "taskReason":[
   {"value": "", "name": "-SELECT-"},
   {"value": "Insurance Diversion", "name": "Insurance Diversion"},
   {"value": "Clinical Review Diversions", "name": "Clinical Review Diversions"},
