@@ -25,7 +25,7 @@
 {"value": "number 2", "name": "order 2 "}
   ]
 },
-"rxOptions":[{
+"rxOptions":{
   "patient-1":[
 {"value": "", "name": "-SELECT-"},
 {"value": "RX options", "name": "Rx options"},
@@ -38,5 +38,5 @@
 {"value": "hello", "name": "hello"},
 {"value": "number 2" , "name": "number 2"}
    ]
-  }]
+  }
 }
