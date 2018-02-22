@@ -2,8 +2,8 @@
 "taskSource":[
   {"value": "", "name": "-SELECT-"},
   {"value": "Rx", "name": "Rx"},
-  {"value": "Order", "name": "Order"}
-  {"value": "Other", "name": "Other"},
+  {"value": "Order", "name": "Order"},
+  {"value": "Other", "name": "Other"}
   ], 
 "ordersOptions":[{
   "1":[
