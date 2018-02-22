@@ -6,10 +6,10 @@
   {"value": "Other", "name": "Other"}
   ],
   "taskReason"[
-  {value: "", name: "-SELECT-"},
-  {value: "Insurance Diversion", name: "Insurance Diversion"},
-  {value: "Clinical Review Diversions", name: "Clinical Review Diversions"},
-  {value: "Other", name: "Counseling Diversion"}
+  {"value": "", "name": "-SELECT-"},
+  {"value": "Insurance Diversion", "name": "Insurance Diversion"},
+  {"value": "Clinical Review Diversions", "name": "Clinical Review Diversions"},
+  {"value": "Other", "name": "Counseling Diversion"}
              ],
 "ordersOptions":[{
   "1":[
