@@ -1,6 +1,6 @@
 {
 "taskSource":[
-  {"name": "", "value": "-SELECT-"},
+  {"name": "-SELECT-", "value": ""},
   {"name": "Rx", "value": "Rx"},
   {"name": "Order", "value": "Order"},
   {"name": "Other", "value": "Other"}
