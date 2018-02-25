@@ -1,42 +1,42 @@
 {
 "taskSource":[
-  {name: "", code: "-SELECT-"},
-  {name: "Rx", code: "Rx"},
-  {name: "Order", code: "Order"},
-  {name: "Other", code: "Other"}
+  {"name": "", "value": "-SELECT-"},
+  {"name": "Rx", "value": "Rx"},
+  {"name": "Order", "value": "Order"},
+  {"name": "Other", "value": "Other"}
   ],
   "taskReason":[
-  {name: "", code: "-SELECT-"},
-  {name: "Insurance Diversion", code: "Insurance Diversion"},
-  {name: "Clinical Review Diversions", code: "Clinical Review Diversions"},
-  {name: "Other", code: "Counseling Diversion"}
+  {"name": "", "value": "-SELECT-"},
+  {"name": "Insurance Diversion", "value": "Insurance Diversion"},
+  {"name": "Clinical Review Diversions", "value": "Clinical Review Diversions"},
+  {"name": "Other", "value": "Counseling Diversion"}
              ],
 "ordersOptions":{
   "patient-1":[
-{name: "", code: "-SELECT-"},
-{name: "Order options", code: "order option"},
-{name: 12345, code: 12345},
-{name: 56789, code: 56789}
+{"name": "", "value": "-SELECT-"},
+{"name": "Order options", "value": "order option"},
+{"name": 12345, "value": 12345},
+{"name": 56789, "value": 56789}
 ],
   "patient-2":[
-{name: "", code: "-SELECT-"},
-{name: "Order Id", code: "order Id"},
-{name: "hello", code: "hello"},
-{name: "number 2", code: "order 2 "}
+{"name": "", "value": "-SELECT-"},
+{"name": "Order Id", "value": "order Id"},
+{"name": "hello", "value": "hello"},
+{"name": "number 2", "value": "order 2 "}
   ]
 },
 "rxOptions":{
   "patient-1":[
-{name: "", code: "-SELECT-"},
-{name: "RX options", code: "Rx options"},
-{name: 98765, code: 98765},
-{name: 54321, code: 54321}
+{"name": "", "value": "-SELECT-"},
+{"name": "RX options", "value": "Rx options"},
+{"name": 98765, "value": 98765},
+{"name": 54321, "value": 54321}
    ],
   "patient-2":[
-{name: "", code: "-SELECT-"},
-{name: "RX options", code: "Rx options"},
-{name: "hello", code: "hello"},
-{name: "number 2" , code: "number 2"}
+{"name": "", "value": "-SELECT-"},
+{"name": "RX options", "value": "Rx options"},
+{"name": "hello", "value": "hello"},
+{"name": "number 2" , "value": "number 2"}
    ]
   },
   "submittedData":{}
