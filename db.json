@@ -1,42 +1,42 @@
 {
 "taskSource":[
-  {"value": "", "name": "-SELECT-"},
-  {"value": "Rx", "name": "Rx"},
-  {"value": "Order", "name": "Order"},
-  {"value": "Other", "name": "Other"}
+  {"value": "", "label": "-SELECT-"},
+  {"value": "Rx", "label": "Rx"},
+  {"value": "Order", "label": "Order"},
+  {"value": "Other", "label": "Other"}
   ],
   "taskReason":[
-  {"value": "", "name": "-SELECT-"},
-  {"value": "Insurance Diversion", "name": "Insurance Diversion"},
-  {"value": "Clinical Review Diversions", "name": "Clinical Review Diversions"},
-  {"value": "Other", "name": "Counseling Diversion"}
+  {"value": "", "label": "-SELECT-"},
+  {"value": "Insurance Diversion", "label": "Insurance Diversion"},
+  {"value": "Clinical Review Diversions", "label": "Clinical Review Diversions"},
+  {"value": "Other", "label": "Counseling Diversion"}
              ],
 "ordersOptions":{
   "patient-1":[
-{"value": "", "name": "-SELECT-"},
-{"value": "Order options", "name": "order option"},
-{"value": 12345, "name": 12345},
-{"value": 56789, "name": 56789}
+{"value": "", "label": "-SELECT-"},
+{"value": "Order options", "label": "order option"},
+{"value": 12345, "label": 12345},
+{"value": 56789, "label": 56789}
 ],
   "patient-2":[
-{"value": "", "name": "-SELECT-"},
-{"value": "Order Id", "name": "order Id"},
-{"value": "hello", "name": "hello"},
-{"value": "number 2", "name": "order 2 "}
+{"value": "", "label": "-SELECT-"},
+{"value": "Order Id", "label": "order Id"},
+{"value": "hello", "label": "hello"},
+{"value": "number 2", "label": "order 2 "}
   ]
 },
 "rxOptions":{
   "patient-1":[
-{"value": "", "name": "-SELECT-"},
-{"value": "RX options", "name": "Rx options"},
-{"value": 98765, "name": 98765},
-{"value": 54321, "name": 54321}
+{"value": "", "label": "-SELECT-"},
+{"value": "RX options", "label": "Rx options"},
+{"value": 98765, "label": 98765},
+{"value": 54321, "label": 54321}
    ],
   "patient-2":[
-{"value": "", "name": "-SELECT-"},
-{"value": "RX options", "name": "Rx options"},
-{"value": "hello", "name": "hello"},
-{"value": "number 2" , "name": "number 2"}
+{"value": "", "label": "-SELECT-"},
+{"value": "RX options", "label": "Rx options"},
+{"value": "hello", "label": "hello"},
+{"value": "number 2" , "label": "number 2"}
    ]
   },
   "submittedData":{}
